@@ -1,0 +1,6 @@
+CATATAN PRAKTIK GIT DAN GITHUB
+
+1. Git digunakan untuk mengelola versi kode program.
+2. GitHub digunakan untuk menyimpan repository secara online.
+3. Git Push digunakan untuk mengirim perubahan ke GitHub.
+4. Git Pull digunakan untuk mengambil perubahan dari GitHub.
